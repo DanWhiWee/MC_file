@@ -1,0 +1,51 @@
+[02:19:50] [Client thread/INFO]: Setting user: DanWhiWee
+[02:19:53] [Client thread/WARN]: Skipping bad option: lastServer:
+[02:19:53] [Client thread/INFO]: LWJGL Version: 2.9.4
+[02:19:54] [Client thread/INFO]: Reloading ResourceManager: Default
+[02:19:55] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[02:19:55] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[02:19:55] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[02:19:56] [Thread-5/INFO]: OpenAL initialized.
+[02:19:56] [Sound Library Loader/INFO]: Sound engine started
+[02:20:03] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[02:20:30] [Server thread/INFO]: Starting integrated minecraft server version 1.11
+[02:20:30] [Server thread/INFO]: Generating keypair
+[02:20:30] [Server thread/INFO]: Preparing start region for level 0
+[02:20:31] [Server thread/INFO]: Preparing spawn area: 8%
+[02:20:32] [Server thread/INFO]: Preparing spawn area: 67%
+[02:20:33] [Server thread/INFO]: Changing view distance to 12, from 10
+[02:20:33] [Server thread/INFO]: DanWhiWee[local:E:2d15ef7c] logged in with entity id 171 at (-21.58218227341451, 69.0, -1019.4020932822149)
+[02:20:33] [Server thread/INFO]: DanWhiWee joined the game
+[02:20:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2889ms behind, skipping 57 tick(s)
+[02:21:21] [Server thread/INFO]: Saving and pausing game...
+[02:21:21] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[02:21:22] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[02:21:22] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[02:21:36] [Server thread/INFO]: Saving and pausing game...
+[02:21:36] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[02:21:37] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[02:21:37] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[02:21:45] [Client thread/INFO]: Using default channel type
+[02:21:45] [Client thread/INFO]: Started on 51691
+[02:21:45] [Client thread/INFO]: [CHAT] Local game hosted on port 51691
+[02:21:50] [Client thread/INFO]: [CHAT] /gamemode, /gamerule
+[02:21:55] [Server thread/INFO]: [DanWhiWee: Set own game mode to Creative Mode]
+[02:21:55] [Client thread/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[02:22:05] [Client thread/INFO]: [CHAT] /gamemode, /gamerule
+[02:22:14] [Client thread/INFO]: [CHAT] adventure, creative, spectator, survival
+[02:22:17] [Client thread/INFO]: [CHAT] spectator, survival
+[02:22:19] [Client thread/INFO]: [CHAT] spectator, survival
+[02:22:20] [Server thread/INFO]: [DanWhiWee: Set own game mode to Survival Mode]
+[02:22:20] [Client thread/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[03:25:17] [Server thread/INFO]: DanWhiWee lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:25:17] [Server thread/INFO]: DanWhiWee left the game
+[03:25:17] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[03:25:17] [Server thread/INFO]: Stopping server
+[03:25:17] [Server thread/INFO]: Saving players
+[03:25:17] [Server thread/INFO]: Saving worlds
+[03:25:17] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[03:25:18] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[03:25:18] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[03:25:19] [Client thread/INFO]: Stopping!
+[03:25:19] [Client thread/INFO]: SoundSystem shutting down...
+[03:25:19] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
