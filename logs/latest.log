@@ -1,0 +1,64 @@
+[00:00:27] [Server thread/INFO]: Saving and pausing game...
+[00:00:27] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:00:28] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:00:28] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:03:41] [Server thread/INFO]: Saving and pausing game...
+[00:03:41] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:03:41] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:03:41] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:07:26] [Server thread/INFO]: Saving and pausing game...
+[00:07:26] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:07:26] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:07:26] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:09:59] [Server thread/INFO]: Saving and pausing game...
+[00:09:59] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:10:00] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:10:00] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:14:43] [Server thread/INFO]: Saving and pausing game...
+[00:14:43] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:14:43] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:14:43] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:20:24] [Server thread/INFO]: Saving and pausing game...
+[00:20:24] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:20:24] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:20:24] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:21:44] [Server thread/INFO]: Saving and pausing game...
+[00:21:44] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:21:45] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:21:45] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:28:00] [Server thread/INFO]: Saving and pausing game...
+[00:28:00] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:28:00] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:28:00] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:29:22] [Server thread/INFO]: Saving and pausing game...
+[00:29:22] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:29:22] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:29:22] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:34:32] [Server thread/INFO]: Saving and pausing game...
+[00:34:32] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:34:32] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:34:32] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:40:57] [Server thread/INFO]: Saving and pausing game...
+[00:40:57] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:40:57] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:40:57] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:51:13] [Server thread/INFO]: Saving and pausing game...
+[00:51:13] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:51:13] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:51:13] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:53:39] [Server thread/INFO]: Saving and pausing game...
+[00:53:39] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:53:39] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:53:39] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:53:39] [Server thread/INFO]: Stopping server
+[00:53:39] [Server thread/INFO]: Saving players
+[00:53:39] [Server thread/INFO]: DanWhiWee lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:53:39] [Server thread/INFO]: DanWhiWee left the game
+[00:53:39] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:53:39] [Server thread/INFO]: Saving worlds
+[00:53:39] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[00:53:39] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[00:53:39] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[00:53:43] [Client thread/INFO]: Stopping!
+[00:53:43] [Client thread/INFO]: SoundSystem shutting down...
+[00:53:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
