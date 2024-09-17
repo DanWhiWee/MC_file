@@ -1,50 +1,50 @@
-[00:06:37] [Client thread/INFO]: Setting user: DanWhiWee
-[00:06:39] [Client thread/WARN]: Skipping bad option: lastServer:
-[00:06:39] [Client thread/INFO]: LWJGL Version: 2.9.4
-[00:06:41] [Client thread/INFO]: Reloading ResourceManager: Default
-[00:06:42] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[00:06:42] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[00:06:42] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[00:06:42] [Thread-5/INFO]: OpenAL initialized.
-[00:06:42] [Sound Library Loader/INFO]: Sound engine started
-[00:06:49] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[00:07:23] [Server thread/INFO]: Starting integrated minecraft server version 1.11
-[00:07:23] [Server thread/INFO]: Generating keypair
-[00:07:23] [Server thread/INFO]: Preparing start region for level 0
-[00:07:24] [Server thread/INFO]: Preparing spawn area: 0%
-[00:07:25] [Server thread/INFO]: Preparing spawn area: 43%
-[00:07:26] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 4c9fae06-3f78-4e88-a64a-c6d98f28a8d5
-[00:07:26] [Server thread/INFO]: Changing view distance to 12, from 10
-[00:07:27] [Server thread/INFO]: DanWhiWee[local:E:b047d187] logged in with entity id 169 at (-46.311066158585476, 66.0, -987.0133765780886)
-[00:07:27] [Server thread/INFO]: DanWhiWee joined the game
-[00:07:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3534ms behind, skipping 70 tick(s)
-[00:53:09] [Server thread/INFO]: Saving and pausing game...
-[00:53:09] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
-[00:53:10] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
-[00:53:10] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
-[00:53:11] [Server thread/INFO]: Stopping server
-[00:53:11] [Server thread/INFO]: Saving players
-[00:53:11] [Server thread/INFO]: DanWhiWee lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:53:11] [Server thread/INFO]: DanWhiWee left the game
-[00:53:11] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[00:53:11] [Server thread/INFO]: Saving worlds
-[00:53:11] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
-[00:53:11] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
-[00:53:11] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
-[00:53:11] [File IO Thread/INFO]: [STDERR]: java.io.IOException: Stream Closed
-[00:53:11] [File IO Thread/INFO]: [STDERR]: 	at java.io.RandomAccessFile.seek0(Native Method)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at java.io.RandomAccessFile.seek(RandomAccessFile.java:557)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at auz.a(SourceFile:323)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at auz.a(SourceFile:263)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at auz$a.close(SourceFile:244)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:241)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at java.io.FilterOutputStream.close(FilterOutputStream.java:159)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at java.io.FilterOutputStream.close(FilterOutputStream.java:159)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at avb.b(SourceFile:160)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at avb.c(SourceFile:145)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at bdn.c(SourceFile:37)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at bdn.run(SourceFile:30)
-[00:53:12] [File IO Thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Thread.java:745)
-[00:53:13] [Client thread/INFO]: Stopping!
-[00:53:13] [Client thread/INFO]: SoundSystem shutting down...
-[00:53:14] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[01:30:49] [Client thread/INFO]: Setting user: DanWhiWee
+[01:30:52] [Client thread/WARN]: Skipping bad option: lastServer:
+[01:30:52] [Client thread/INFO]: LWJGL Version: 2.9.4
+[01:30:54] [Client thread/INFO]: Reloading ResourceManager: Default
+[01:30:55] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[01:30:55] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[01:30:55] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[01:30:55] [Thread-5/INFO]: OpenAL initialized.
+[01:30:55] [Sound Library Loader/INFO]: Sound engine started
+[01:31:04] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[01:32:06] [Server thread/INFO]: Starting integrated minecraft server version 1.11
+[01:32:06] [Server thread/INFO]: Generating keypair
+[01:32:07] [Server thread/INFO]: Preparing start region for level 0
+[01:32:08] [Server thread/INFO]: Preparing spawn area: 0%
+[01:32:09] [Server thread/INFO]: Preparing spawn area: 46%
+[01:32:10] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 4c9fae06-3f78-4e88-a64a-c6d98f28a8d5
+[01:32:10] [Server thread/INFO]: Changing view distance to 12, from 10
+[01:32:11] [Server thread/INFO]: DanWhiWee[local:E:0d0b7d63] logged in with entity id 173 at (-89.23676404158383, 86.89098947638801, -958.4042545129465)
+[01:32:11] [Server thread/INFO]: DanWhiWee joined the game
+[01:32:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3316ms behind, skipping 66 tick(s)
+[01:33:22] [Server thread/INFO]: Saving and pausing game...
+[01:33:22] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[01:33:22] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[01:33:22] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[01:33:23] [Server thread/INFO]: Stopping server
+[01:33:23] [Server thread/INFO]: Saving players
+[01:33:23] [Server thread/INFO]: DanWhiWee lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:33:23] [Server thread/INFO]: DanWhiWee left the game
+[01:33:23] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[01:33:23] [Server thread/INFO]: Saving worlds
+[01:33:23] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Overworld
+[01:33:23] [Server thread/INFO]: Saving chunks for level 'asunz_home'/Nether
+[01:33:23] [Server thread/INFO]: Saving chunks for level 'asunz_home'/The End
+[01:33:23] [File IO Thread/INFO]: [STDERR]: java.io.IOException: Stream Closed
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at java.io.RandomAccessFile.seek0(Native Method)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at java.io.RandomAccessFile.seek(RandomAccessFile.java:557)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at auz.a(SourceFile:323)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at auz.a(SourceFile:263)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at auz$a.close(SourceFile:244)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:241)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at java.io.FilterOutputStream.close(FilterOutputStream.java:159)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at java.io.FilterOutputStream.close(FilterOutputStream.java:159)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at avb.b(SourceFile:160)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at avb.c(SourceFile:145)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at bdn.c(SourceFile:37)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at bdn.run(SourceFile:30)
+[01:33:23] [File IO Thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Thread.java:745)
+[01:33:24] [Client thread/INFO]: Stopping!
+[01:33:24] [Client thread/INFO]: SoundSystem shutting down...
+[01:33:24] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
